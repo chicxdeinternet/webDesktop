@@ -1,0 +1,14 @@
+APUNTES 19/03
+
+En lo posible para optimizar, usar archivos svg
+Usar vh solo para banners en homepage que necesiten tener alto fijo.
+ ñ
+ min-width--> sirve para que flex respete ese minimo que decido.
+ flex-wrap-->n ome corta el contenido, se alinea todo hacia el costado.
+ Si los elementos superane el 100% del ancho hay que tirar a los demas hacia abajo
+
+A las imagenes ajustarlas a un 100%
+conviene hacer un div y en class ponerle a ese div la imagen como una background:
+background size:cover
+background position: center------ 
+
